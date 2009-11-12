@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Colors</key>
+	<dict>
+		<key>Background</key>
+		<string>0.000 0.000 0.000</string>
+		<key>InsertionPoint</key>
+		<string>0.647 0.639 0.655</string>
+		<key>Selection</key>
+		<string>1.000 0.000 0.667</string>
+		<key>xcode.syntax.attribute</key>
+		<string>0.867 0.952 1.000</string>
+		<key>xcode.syntax.character</key>
+		<string>0.356 1.000 0.869</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.753 0.365 1.000</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.753 0.365 1.000</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.753 0.365 1.000</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.994 1.000 0.988</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.624 1.000 0.512</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>1.000 0.392 0.345</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>1.000 0.392 0.345</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.603 0.965 1.000</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.955 0.866 0.538</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.796 1.000 0.762</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.565 1.000 0.369</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>1.000 0.975 0.975</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.948 0.961 1.000</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.271 0.588 1.000</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.336 0.535 1.000</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.575 0.833 0.298</string>
+		<key>xcode.syntax.number</key>
+		<string>0.125 0.394 1.000</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.527 0.881 1.000</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.382 0.976 1.000</string>
+		<key>xcode.syntax.string</key>
+		<string>0.218 1.000 0.199</string>
+		<key>xcode.syntax.url</key>
+		<string>0.565 1.000 0.369</string>
+		<key>xcode.syntax.url.mail</key>
+		<string>0.565 1.000 0.369</string>
+	</dict>
+	<key>Fonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>Monaco - 12.0</string>
+		<key>xcode.syntax.character</key>
+		<string>Monaco - 12.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>Monaco - 12.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>Monaco - 12.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>Monaco - 12.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>Monaco - 12.0</string>
+		<key>xcode.syntax.number</key>
+		<string>Monaco - 12.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>Monaco - 12.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>Monaco - 12.0</string>
+		<key>xcode.syntax.string</key>
+		<string>Monaco - 12.0</string>
+		<key>xcode.syntax.url</key>
+		<string>Monaco - 12.0</string>
+	</dict>
+</dict>
+</plist>

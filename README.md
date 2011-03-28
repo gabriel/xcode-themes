@@ -6,10 +6,15 @@
  * UltraMarine (http://github.com/csch - needs dejavu sans mono: http://sourceforge.net/projects/dejavu/files)
  * _Add your theme name here_
 
-# Install
+# Install (XCode 4)
 
+ * Place files in: `~/Library/Developer/Xcode/UserData/FontAndColorThemes/`
+ * Restart XCode
+ * Open `XCode | Preferences | Fonts & Colors`, select theme name
+
+# Install (XCode 3)
  * Place files in: `~/Library/Application\ Support/Xcode/Color\ Themes/`
- * Restart XCode if running
+ * Restart XCode
  * Open `XCode | Preferences | Fonts & Colors`, select theme name
  
 

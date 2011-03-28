@@ -13,9 +13,11 @@
  * Open `XCode | Preferences | Fonts & Colors`, select theme name
 
 # Install (XCode 3)
+
  * Place files in: `~/Library/Application\ Support/Xcode/Color\ Themes/`
  * Restart XCode
  * Open `XCode | Preferences | Fonts & Colors`, select theme name
  
+# Converting 
 
-
+[Convert XCode 3 themes to XCode 4](http://digitalflapjack.com/blog/2011/jan/24/xcodedpthemes/)

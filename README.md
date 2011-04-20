@@ -4,6 +4,7 @@
  * GDTwilight (http://github.com/gdavis)
  * ColorBlind (http://github.com/min)
  * UltraMarine (http://github.com/csch - needs dejavu sans mono: http://sourceforge.net/projects/dejavu/files)
+ * Made of Code (http://madeofcode.com/posts/83)
  * _Add your theme name here_
 
 # Install (XCode 4)

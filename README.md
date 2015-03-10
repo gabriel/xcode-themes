@@ -10,7 +10,7 @@
 
 _Add your theme name here_
 
-# Install (XCode 4)
+# Install
 
 1. Install themes:
 

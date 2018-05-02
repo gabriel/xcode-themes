@@ -18,7 +18,7 @@ _Add your theme name here_
         cd ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
         git clone git@github.com:gabriel/xcode-themes.git .
 
-1. Restart XCode
-1. Open `XCode | Preferences | Fonts & Colors`, select theme name
+1. Restart Xcode
+1. Open `Xcode | Preferences | Fonts & Colors`, select theme name
 
 
